@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png">
-		<img width="500" height="350" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png" alt="Awesome">
+		<img width="600" height="450" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/240px-Flag_of_Turkey.svg.png" alt="Awesome" >
 	</a>
 	<br>
 	<br>
